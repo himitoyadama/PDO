@@ -1,4 +1,7 @@
 # XAMPP
+XAMPP MySQL（MariaDB）動作確認 データベース作成・テーブル作成・データインポート・ブラウザで表示 
+https://sainoitnote.com/xampp-mysql-operation-check-win10-201904/
+
 XAMPP - phpMyAdmin「接続できません。設定が無効です。」対処方法
 https://pc-karuma.net/xampp-phpmyadmin-cannot-connect/
 
