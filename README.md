@@ -4,3 +4,6 @@ https://logicoya.com/course/lesson/107#:~:text=php%E3%82%B3%E3%83%9E%E3%83%B3%E3
 
 MySQLの動作確認（XAMPP）
 https://logicoya.com/course/lesson/64
+
+【PHP/XAMPP】MySQLでデータベースを作成する方法
+https://office54.net/iot/xampp-mysql
