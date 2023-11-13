@@ -1,4 +1,7 @@
 # XAMPP
+mysqli::real_connect(): (HY000/1045):
+https://creative-studio.jp/post-744/
+
 XAMPP MySQL（MariaDB）動作確認 データベース作成・テーブル作成・データインポート・ブラウザで表示 
 https://sainoitnote.com/xampp-mysql-operation-check-win10-201904/
 
