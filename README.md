@@ -1,4 +1,7 @@
 # XAMPP
+設定ファイルの編集
+https://dw.alpha-prm.jp/support/tool/php/v2/step_03.html
+
 mysqli::real_connect(): (HY000/1045):
 https://creative-studio.jp/post-744/
 
