@@ -1,4 +1,7 @@
 # XAMPP
+データをフォームからデータベースに保存する
+https://study-aaa.hatenablog.com/entry/2019/09/28/134811
+
 入力フォームを使ってデータを送受信しよう！
 https://codezine.jp/article/detail/3641
 
