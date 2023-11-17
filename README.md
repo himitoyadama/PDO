@@ -1,4 +1,7 @@
 # XAMPP
+入力フォームを使ってデータを送受信しよう！
+https://codezine.jp/article/detail/3641
+
 設定ファイルの編集
 https://dw.alpha-prm.jp/support/tool/php/v2/step_03.html
 
