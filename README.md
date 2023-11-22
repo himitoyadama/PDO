@@ -1,4 +1,7 @@
 # XAMPP
+＃1【脱初心者】PHP、MySQLインスタ風アプリを作る【データベースを作ろう】Xampp
+https://m.youtube.com/watch?v=DQ1M8mU6rZQ
+
 データをフォームからデータベースに保存する
 https://study-aaa.hatenablog.com/entry/2019/09/28/134811
 
