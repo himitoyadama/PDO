@@ -1,4 +1,6 @@
 # XAMPP
+45分でPHPの環境構築からポートフォリオまでこれ一本 https://m.youtube.com/watch?v=1XEMVdeTFAk
+
 ＃1【脱初心者】PHP、MySQLインスタ風アプリを作る【データベースを作ろう】Xampp
 https://m.youtube.com/watch?v=DQ1M8mU6rZQ
 
