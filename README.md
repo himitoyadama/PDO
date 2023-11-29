@@ -1,4 +1,8 @@
 # XAMPP
+
+XAMPP Apache/MySQL/Tomcatのポート番号を変更
+https://itsakura.com/xampp-port#s2
+
 【MySQL】データ型一覧
 https://ysklog.net/mysql/1797.html
 
