@@ -1,4 +1,6 @@
 # XAMPP
+rootアカウントのパスワードを設定する
+https://www.javadrive.jp/xampp/mysql/index2.html
 
 XAMPP Apache/MySQL/Tomcatのポート番号を変更
 https://itsakura.com/xampp-port#s2
