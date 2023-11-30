@@ -2,6 +2,9 @@
 名前登録プログラム
 https://se-shine.net/mysql-insert-data/
 
+【MySQL】PHPでprepareを使って安全にデータベースへ登録する方法
+https://xn--t8j3bz04sl3w.xyz/mysql/php-prepare/6889/
+
 PHPのnew PDOを使ってMysqlでphpmyadminにアクセスする
 https://god48.com/php-localhost-pdo-phpmyadmin
 
