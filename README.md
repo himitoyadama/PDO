@@ -1,4 +1,7 @@
 # XAMPP
+名前登録プログラム
+https://se-shine.net/mysql-insert-data/
+
 PHPのnew PDOを使ってMysqlでphpmyadminにアクセスする
 https://god48.com/php-localhost-pdo-phpmyadmin
 
