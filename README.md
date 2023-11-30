@@ -1,4 +1,7 @@
 # XAMPP
+PHPのnew PDOを使ってMysqlでphpmyadminにアクセスする
+https://god48.com/php-localhost-pdo-phpmyadmin
+
 XAMPPのphpMyAdminのアクセスエラーを解消
 https://www.blog2020.iwadjp.com/2020/10/17/post-1718/
 
