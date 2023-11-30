@@ -5,6 +5,9 @@ https://qiita.com/neneta0921/items/3c2f9ac8ea9b5bcfc6e6
 rootアカウントのパスワードを設定する
 https://www.javadrive.jp/xampp/mysql/index2.html
 
+phpMyAdminのログイン/パスワードに関する設定
+https://www.javadrive.jp/xampp/mysql/index3.html
+
 XAMPP - phpMyAdmin「接続できません。設定が無効です。」対処方法 
 https://pc-karuma.net/xampp-phpmyadmin-cannot-connect/
 
