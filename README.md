@@ -1,4 +1,7 @@
 # XAMPP
+XAMPPのphpMyAdminのアクセスエラーを解消
+https://www.blog2020.iwadjp.com/2020/10/17/post-1718/
+
 Xamppでポート競合を防ぐ方法 
 https://qiita.com/neneta0921/items/3c2f9ac8ea9b5bcfc6e6
 
