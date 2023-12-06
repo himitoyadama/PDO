@@ -1,4 +1,7 @@
 # XAMPP
+XAMPP(ザンプ)のMariaDBをMySQLに変更する方法
+https://dad-union.com/php/2263
+
 【PHP】ログイン機能作ってみた【Webアプリ】
 https://www.youtube.com/watch?v=5UqKC0sKK0g
 
