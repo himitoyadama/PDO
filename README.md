@@ -1,4 +1,10 @@
 # htdocs
+【PHP】ログイン機能作ってみた【Webアプリ】
+https://www.youtube.com/watch?v=5UqKC0sKK0g
+
+名前登録プログラム
+https://se-shine.net/mysql-insert-data/
+
 【PHP/MySQL入門】データベースからブログ内容を取り出して一覧表示しよう！ ~ブログアプリ作成~ #04
 https://www.youtube.com/watch?v=hnBUheNUAL0
 
@@ -7,12 +13,6 @@ https://www.youtube.com/watch?v=zz7KzILdBpU&t=40s
 
 【PHP/MySQL入門】テーブルを作ってSQLでデータを入れよう！ ~ブログアプリ作成~ #02
 https://www.youtube.com/watch?v=8hWoyQKErTc&t=0s
-
-【PHP】ログイン機能作ってみた【Webアプリ】
-https://www.youtube.com/watch?v=5UqKC0sKK0g
-
-名前登録プログラム
-https://se-shine.net/mysql-insert-data/
 
 【MySQL】PHPでprepareを使って安全にデータベースへ登録する方法
 https://xn--t8j3bz04sl3w.xyz/mysql/php-prepare/6889/
