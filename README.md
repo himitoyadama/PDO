@@ -1,4 +1,7 @@
 # htdocs
+bindParam()とbindValue()の違い
+https://qiita.com/_dozen_/items/f6239cf1bdab6f8b0026
+
 【PHP】ログイン機能作ってみた【Webアプリ】
 https://www.youtube.com/watch?v=5UqKC0sKK0g
 
