@@ -1,4 +1,7 @@
 # XAMPP
+【PHP/MySQL入門】PDOを使ってMySQLデータベースに接続しよう！ ~ブログアプリ作成~ #03
+https://www.youtube.com/watch?v=zz7KzILdBpU&t=40s
+
 XAMPP(ザンプ)のMariaDBをMySQLに変更する方法
 https://dad-union.com/php/2263
 
