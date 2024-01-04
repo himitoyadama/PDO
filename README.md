@@ -2,8 +2,8 @@
 【PHP/MySQL入門】PDOを使ってMySQLデータベースに接続しよう！ ~ブログアプリ作成~ #03
 https://www.youtube.com/watch?v=zz7KzILdBpU&t=40s
 
-XAMPP(ザンプ)のMariaDBをMySQLに変更する方法
-https://dad-union.com/php/2263
+【PHP/MySQL入門】テーブルを作ってSQLでデータを入れよう！ ~ブログアプリ作成~ #02
+https://www.youtube.com/watch?v=8hWoyQKErTc&t=0s
 
 【PHP】ログイン機能作ってみた【Webアプリ】
 https://www.youtube.com/watch?v=5UqKC0sKK0g
