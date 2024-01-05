@@ -1,4 +1,7 @@
 # htdocs
+Invalid parameter numberについて教えてください。
+https://qiita.com/yyy752/questions/32fb01da5e6c4b16615f
+
 bindParam()とbindValue()の違い
 https://qiita.com/_dozen_/items/f6239cf1bdab6f8b0026
 
