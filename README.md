@@ -1,4 +1,7 @@
 # htdocs
+PDOを使ってデータを取得する
+https://gray-code.com/php/getting-data-by-using-pdo/
+
 Invalid parameter numberについてご紹介致します。
 https://umebius.com/eccube/queryexception-invalid-parameter-number-number-bound-variables-not-match-number-tokens/
 
