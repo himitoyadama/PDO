@@ -1,4 +1,6 @@
 # htdocs
+Invalid parameter numberについてご紹介致します。
+https://umebius.com/eccube/queryexception-invalid-parameter-number-number-bound-variables-not-match-number-tokens/
 
 スーパーグローバル 
 https://www.php.net/manual/ja/language.variables.superglobals.php
