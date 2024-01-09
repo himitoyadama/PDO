@@ -1,4 +1,8 @@
 # htdocs
+
+＃2【脱初心者】PHP、MySQLインスタ風アプリを作る【画像登録機能を作る】Xampp
+https://www.youtube.com/watch?v=SO0elAgPsHs
+
 PDOを使ってデータを取得する
 https://gray-code.com/php/getting-data-by-using-pdo/
 
