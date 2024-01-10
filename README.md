@@ -2,6 +2,9 @@
 開発環境XAMPPにWordPressをインストール【無料で学ぶWordPress】#1
 https://m.youtube.com/watch?v=gKuiT6s5NHg
 
+＃3PHP、MySQLインスタ風アプリを作る【アプリに登録した画像を反映しよう】Xampp
+https://www.youtube.com/watch?v=k6XfZNyD-Yg
+
 ＃2【脱初心者】PHP、MySQLインスタ風アプリを作る【画像登録機能を作る】Xampp
 https://www.youtube.com/watch?v=SO0elAgPsHs
 
