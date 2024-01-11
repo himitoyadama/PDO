@@ -1,4 +1,7 @@
 # htdocs
+初心者PHPプログラミング講座2 お問合せフォーム入力画面 HTMLやinput,textareaタグ
+https://youtu.be/KLL3YSvnqmM?si=wVgn4werLRG9cXxD
+
 ＃5【遂に完成！】PHP、MySQLインスタ風アプリを作る【画像更新、コメント機能】
 https://m.youtube.com/watch?v=KvqGl29mM2o
 
