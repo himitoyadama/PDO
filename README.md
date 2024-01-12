@@ -2,6 +2,9 @@
 PHPでWebアプリを作ってみよう！ 〜 プログラム基本＆実践 〜
 https://www.youtube.com/watch?v=3Nzqqn3xWKs
 
+【PHP初級】ログイン機能作成①セッションとキャッシュ ~ログイン機能をつくろう！~ #04
+https://www.youtube.com/watch?v=k8N3Vj561Do
+
 ＃5【遂に完成！】PHP、MySQLインスタ風アプリを作る【画像更新、コメント機能】
 https://m.youtube.com/watch?v=KvqGl29mM2o
 
