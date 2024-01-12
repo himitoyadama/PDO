@@ -1,4 +1,7 @@
 # htdocs
+初心者PHPプログラミング講座6 お問合せフォーム メール送信処理の実装 分かりやすいよ！
+https://www.youtube.com/watch?v=5H9EcpOaXig
+
 初心者PHPプログラミング講座2 お問合せフォーム入力画面 HTMLやinput,textareaタグ
 https://youtu.be/KLL3YSvnqmM?si=wVgn4werLRG9cXxD
 
