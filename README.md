@@ -1,12 +1,10 @@
 # htdocs
+【PHP初級】ユーザ登録機能作成とバリデーション ~ログイン機能をつくろう！~ #02
+https://www.youtube.com/watch?app=desktop&v=Ud_Inw3O_D4
+
 【PHP/MySQL入門】PDO(dns)を使ってMySQLデータベースに接続しよう！ ~ブログアプリ作成~ #03
 https://youtu.be/zz7KzILdBpU?si=MfSbmqipsnhVVhJG
 
-【PHP初級】ユーザ登録機能作成とバリデーション ~ログイン機能をつくろう！~ #02
-https://m.youtube.com/watch?v=Ud_Inw3O_D4
-
-【PHP初級】ログイン機能作成手順とユーザテーブル作成 ~ログイン機能をつくろう！~ #01
-https://m.youtube.com/watch?v=uCvPMe5wsNk
 
 PHPでWebアプリを作ってみよう！ 〜 プログラム基本＆実践 〜
 https://www.youtube.com/watch?v=3Nzqqn3xWKs
