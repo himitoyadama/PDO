@@ -1,4 +1,7 @@
 # htdocs
+【PHP/MySQL入門】PDOを使ってMySQLデータベースに接続しよう！ ~ブログアプリ作成~ #03
+https://youtu.be/zz7KzILdBpU?si=PQWSvC4NR94La4Ka
+
 【PHP初級】ログイン機能作成手順とユーザテーブル作成 ~ログイン機能をつくろう！~ #01
 https://www.youtube.com/watch?v=uCvPMe5wsNk
 
