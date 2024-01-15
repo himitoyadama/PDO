@@ -1,4 +1,7 @@
 # htdocs
+【PHP/MySQL入門】関数（引数・返り値）をマスターしよう！ ~ブログアプリ作成~ #05
+https://www.youtube.com/watch?v=iDo099q-njw
+
 【PHP/MySQL入門】データベースからブログ内容を取り出して一覧表示しよう！ ~ブログアプリ作成~ #04
 https://www.youtube.com/watch?v=hnBUheNUAL0&t=321s
 
