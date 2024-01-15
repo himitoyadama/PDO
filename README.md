@@ -1,4 +1,7 @@
 # htdocs
+【PHP/MySQL入門】データベースからブログ内容を取り出して一覧表示しよう！ ~ブログアプリ作成~ #04
+https://www.youtube.com/watch?v=hnBUheNUAL0&t=321s
+
 【PHP/MySQL入門】PDOを使ってMySQLデータベースに接続しよう！ ~ブログアプリ作成~ #03
 https://youtu.be/zz7KzILdBpU?si=PQWSvC4NR94La4Ka
 
