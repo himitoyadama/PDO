@@ -1,4 +1,7 @@
 # htdocs
+【PHP/MySQL入門】プレースホルダーでブログ詳細画面を表示しよう！ #06
+https://www.youtube.com/watch?v=RxeE_HFSUJ0
+
 【PHP/MySQL入門】関数（引数・返り値）をマスターしよう！ ~ブログアプリ作成~ #05
 https://www.youtube.com/watch?v=iDo099q-njw
 
