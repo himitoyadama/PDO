@@ -1,4 +1,6 @@
 # htdocs
+Easily check status codes, response headers, and redirect chains.
+https://httpstatus.io/
 
 https://github.com/syvolia/pos-system/commits?author=syvolia
 
