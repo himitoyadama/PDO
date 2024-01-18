@@ -1,4 +1,6 @@
 # www/htdocs
+cocoonワードプレステーマ
+https://wp-cocoon.com/
 
 Wordpress初心者使い方・始め方【ホームページ・ブログ作成】
 https://www.youtube.com/watch?v=IsX-Es-LnjI
