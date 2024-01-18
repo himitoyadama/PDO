@@ -1,4 +1,4 @@
-# htdocs
+# www/htdocs
 Easily check status codes, response headers, and redirect chains.
 https://httpstatus.io/
 
