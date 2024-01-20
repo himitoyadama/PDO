@@ -1,4 +1,7 @@
 # www/htdocs
+XAMPPでWordPressローカル環境を構築する手順を解説
+https://wpmake.jp/contents/customize/wp-xampp/
+
 cocoonワードプレステーマ
 https://wp-cocoon.com/
 
