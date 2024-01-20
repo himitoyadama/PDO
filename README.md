@@ -1,4 +1,7 @@
 # www/htdocs
+XAMPP SSL Configuration Tutorial Configure SSL on Localhost
+https://m.youtube.com/watch?v=Mig9YPNiUZI
+
 XAMPPでWordPressローカル環境を構築する手順を解説
 https://wpmake.jp/contents/customize/wp-xampp/
 
