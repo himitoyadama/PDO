@@ -1,4 +1,7 @@
 # www/htdocs
+XAMPP for WindowsでSSLを有効にする
+https://qiita.com/sutara79/items/21a068494bc3a08a4803
+
 How to Set Up an SSL Certificate in Localhost for XAMPP
 https://www.youtube.com/watch?v=eqrDHkIFe8U
 
