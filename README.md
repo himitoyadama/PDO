@@ -1,4 +1,7 @@
 # www/htdocs
+無料でWordPressで完全会員制サイトを作る方法🔰無料プラグインのみ使用 | オンラインサロンの作り方
+https://m.youtube.com/watch?v=ViC7vyEyafY
+
 【WordPress】 30分で完全会員制サイトを作る方法　【フル版は動画説明欄から】
 https://m.youtube.com/watch?v=0_azNnx-O60
 
