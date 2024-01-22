@@ -1,4 +1,7 @@
 # www/htdocs
+【WordPress】 30分で完全会員制サイトを作る方法　【フル版は動画説明欄から】
+https://m.youtube.com/watch?v=0_azNnx-O60
+
 XAMPP SSL Configuration Tutorial Configure SSL on Localhost
 https://m.youtube.com/watch?v=Mig9YPNiUZI
 
