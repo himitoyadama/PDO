@@ -1,4 +1,7 @@
 # www/htdocs
+How to Set Up an SSL Certificate in Localhost for XAMPP
+https://www.youtube.com/watch?v=eqrDHkIFe8U
+
 無料でWordPressで完全会員制サイトを作る方法🔰無料プラグインのみ使用 | オンラインサロンの作り方
 https://m.youtube.com/watch?v=ViC7vyEyafY
 
