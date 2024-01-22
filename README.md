@@ -1,4 +1,7 @@
 # www/htdocs
+バーチャルホストの設定
+https://wp.yat-net.com/?p=2400
+
 XAMPP for WindowsでSSLを有効にする
 https://qiita.com/sutara79/items/21a068494bc3a08a4803
 
