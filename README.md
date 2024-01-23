@@ -1,4 +1,7 @@
 # www/htdocs
+【windows10】『管理者として実行』が表示されないからhostsファイルの書き換えができないときの対処法。
+https://nen5tare.com/archives/kanrisya-denai.html
+
 バーチャルホストの設定
 https://wp.yat-net.com/?p=2400
 
