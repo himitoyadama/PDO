@@ -1,4 +1,7 @@
 # www/htdocs
+WooCommerceの使い方：9ステップでオンラインで商品を販売する方法（オンラインショップの作り方）
+https://www.youtube.com/watch?v=RaxnrznYDko&list=PLmGMqgjkk2A9MdNWjXFE5ZJMSLJ6RuCMt&index=1
+
 Simple Membershipの使い方：WordPressを使って弁護士ドットコムや日経ビジネスのような会員制サイトを作成する方法
 https://www.youtube.com/watch?v=ddj0p0irP44
 
