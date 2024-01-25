@@ -1,4 +1,6 @@
 # www/htdocs
+Simple Membershipの使い方：WordPressを使って弁護士ドットコムや日経ビジネスのような会員制サイトを作成する方法
+https://www.youtube.com/watch?v=ddj0p0irP44
 
 【windows10】『管理者として実行』が表示されないからhostsファイルの書き換えができないときの対処法。
 https://nen5tare.com/archives/kanrisya-denai.html
