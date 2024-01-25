@@ -1,6 +1,4 @@
 # www/htdocs
-【Windows 11対応】WindowsにOpenSSLをインストールして証明書を取り扱う（Ver. 1.1.1編）
-https://atmarkit.itmedia.co.jp/ait/articles/1601/29/news043.html
 
 【windows10】『管理者として実行』が表示されないからhostsファイルの書き換えができないときの対処法。
 https://nen5tare.com/archives/kanrisya-denai.html
