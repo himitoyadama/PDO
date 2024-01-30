@@ -1,4 +1,7 @@
 # www/htdocs
+【WordPress】会員制サイト「Simple Membership」プラグインの完全解説（無料会員・有料会員・期限切れの「ダウングレード指定」まで一気に解説） ※概要欄の「後日追記」ご覧ください
+https://www.youtube.com/watch?v=Fx8PagSl3m0
+
 WooCommerceの使い方：9ステップでオンラインで商品を販売する方法（オンラインショップの作り方）
 https://www.youtube.com/watch?v=RaxnrznYDko&list=PLmGMqgjkk2A9MdNWjXFE5ZJMSLJ6RuCMt&index=1
 
