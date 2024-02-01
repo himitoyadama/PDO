@@ -1,4 +1,11 @@
 # www/htdocs
+
+cocoonワードプレステーマ
+https://wp-cocoon.com/
+
+Wordpress初心者使い方・始め方【ホームページ・ブログ作成】
+https://www.youtube.com/watch?v=IsX-Es-LnjI
+
 【WordPress】会員制サイト「Simple Membership」プラグインの完全解説（無料会員・有料会員・期限切れの「ダウングレード指定」まで一気に解説） ※概要欄の「後日追記」ご覧ください
 https://www.youtube.com/watch?v=Fx8PagSl3m0
 
@@ -34,12 +41,6 @@ https://m.youtube.com/watch?v=Mig9YPNiUZI
 
 XAMPPでWordPressローカル環境を構築する手順を解説
 https://wpmake.jp/contents/customize/wp-xampp/
-
-cocoonワードプレステーマ
-https://wp-cocoon.com/
-
-Wordpress初心者使い方・始め方【ホームページ・ブログ作成】
-https://www.youtube.com/watch?v=IsX-Es-LnjI
 
 Easily check status codes, response headers, and redirect chains.
 https://httpstatus.io/
