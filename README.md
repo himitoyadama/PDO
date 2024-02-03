@@ -1,4 +1,6 @@
 # www/htdocs
+HTMLサイトのWordPress化！WordPressの仕組みを理解しながら学ぼう！
+https://www.youtube.com/watch?v=DqiyhC-RszM
 
 cocoonワードプレステーマ
 https://wp-cocoon.com/
