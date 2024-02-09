@@ -1,4 +1,7 @@
 # www/htdocs
+パラメータ化クエリ
+https://use-the-index-luke.com/ja/sql/where-clause/bind-parameters
+
 PDOとプリペアードステートメント
 https://hackmd.io/@GH-wNvm-QfG5Y89-RmIY8g/Sk0iaZMcu
 
