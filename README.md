@@ -1,4 +1,7 @@
 # www/htdocs
+【前置きなし】XAMPP MySQL（MariaDB）動作確認 データベース作成・テーブル作成・データインポート・ブラウザで表示 Windows10 【2019年4月版】
+https://sainoitnote.com/xampp-mysql-operation-check-win10-201904/
+
 パラメータ化クエリ
 https://use-the-index-luke.com/ja/sql/where-clause/bind-parameters
 
