@@ -1,4 +1,7 @@
 # www/htdocs
+PHPとMySQLを使った会員登録システムの作り方
+https://www.tomotaku.com/programing-join-system/
+
 WordPress管理画面の基本操作とカスタマイズ方法を解説
 https://www.xserver.ne.jp/bizhp/wordpress-management-portal/?gad_source=1&gclid=Cj0KCQiA5fetBhC9ARIsAP1UMgFVcujPB6gaKuuQkKjuC5fltzZd_88ku9T9wyHjOfL1pA8SoHDzaOcaAj7vEALw_wcB
 
