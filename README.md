@@ -1,4 +1,7 @@
 # www/htdocs
+PDOとプリペアードステートメント
+https://hackmd.io/@GH-wNvm-QfG5Y89-RmIY8g/Sk0iaZMcu
+
 SQLSTATE[HY093]: Invalid parameter number
 https://qiita.com/SuguruOoki/items/84946b7a830628b03ddc
 
