@@ -1,4 +1,7 @@
 # www/htdocs
+SQLSTATE[HY093]: Invalid parameter number
+https://qiita.com/SuguruOoki/items/84946b7a830628b03ddc
+
 PHPとMySQLを使った会員登録システムの作り方
 https://www.tomotaku.com/programing-join-system/
 
