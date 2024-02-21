@@ -1,4 +1,13 @@
 # www/htdocs
+＃3PHP、MySQLインスタ風アプリを作る【アプリに登録した画像を反映しよう】
+Xampp https://www.youtube.com/watch?v=k6XfZNyD-Yg
+
+＃2【脱初心者】PHP、MySQLインスタ風アプリを作る【画像登録機能を作る】
+Xampp https://www.youtube.com/watch?v=SO0elAgPsHs
+
+＃1【脱初心者】PHP、MySQLインスタ風アプリを作る【データベースを作ろう】Xampp
+https://m.youtube.com/watch?v=DQ1M8mU6rZQ
+
 【前置きなし】XAMPP MySQL（MariaDB）動作確認 データベース作成・テーブル作成・データインポート・ブラウザで表示 Windows10 【2019年4月版】
 https://sainoitnote.com/xampp-mysql-operation-check-win10-201904/
 
@@ -189,8 +198,6 @@ https://ysklog.net/mysql/1797.html
 
 45分でPHPの環境構築からポートフォリオまでこれ一本 https://m.youtube.com/watch?v=1XEMVdeTFAk
 
-＃1【脱初心者】PHP、MySQLインスタ風アプリを作る【データベースを作ろう】Xampp
-https://m.youtube.com/watch?v=DQ1M8mU6rZQ
 
 データをフォームからデータベースに保存する
 https://study-aaa.hatenablog.com/entry/2019/09/28/134811
