@@ -1,9 +1,9 @@
 # www/htdocs
-＃3PHP、MySQLインスタ風アプリを作る【アプリに登録した画像を反映しよう】
-Xampp https://www.youtube.com/watch?v=k6XfZNyD-Yg
-
 ＃2【脱初心者】PHP、MySQLインスタ風アプリを作る【画像登録機能を作る】
 Xampp https://www.youtube.com/watch?v=SO0elAgPsHs
+
+＃3PHP、MySQLインスタ風アプリを作る【アプリに登録した画像を反映しよう】
+Xampp https://www.youtube.com/watch?v=k6XfZNyD-Yg
 
 ＃1【脱初心者】PHP、MySQLインスタ風アプリを作る【データベースを作ろう】Xampp
 https://m.youtube.com/watch?v=DQ1M8mU6rZQ
