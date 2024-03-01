@@ -1,4 +1,7 @@
 # www/htdocs
+PDOでINSERTの使い方【PHP】
+https://kinocolog.com/pdo_insert/
+
 ＃2【脱初心者】PHP、MySQLインスタ風アプリを作る【画像登録機能を作る】
 Xampp https://www.youtube.com/watch?v=SO0elAgPsHs
 
