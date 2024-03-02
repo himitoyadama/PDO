@@ -1,4 +1,7 @@
-# www/htdocs
+# PDO
+【プログラミング入門】PHPとDB #01 PDOを利用する
+https://m.youtube.com/watch?v=i1R71Y6O850
+
 PDOでINSERTの使い方【PHP】
 https://kinocolog.com/pdo_insert/
 
