@@ -1,4 +1,7 @@
 # PDO
+テーブルの作成手順（MySQL）
+https://qiita.com/ryosuketter/items/713c7046314ecdf1a4a9
+
 【プログラミング入門】PHPとDB #01 PDOを利用する
 https://m.youtube.com/watch?v=i1R71Y6O850
 
