@@ -1,4 +1,7 @@
 # PDO
+PDOクラスによるレコードの抽出
+https://mjeeeey.hatenablog.com/entry/2019/09/06/005932
+
 【PHP学習】プリペアドステートメントの基礎知識と活用方法
 https://webukatu.com/wordpress/blog/28109/
 
