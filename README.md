@@ -1,4 +1,7 @@
 # PDO
+【PHP学習】プリペアドステートメントの基礎知識と活用方法
+https://webukatu.com/wordpress/blog/28109/
+
 【初心者向け】PHP 入力フォームを作成してみよう！
 https://dekfractal.com/1525.html
 
