@@ -1,4 +1,7 @@
 # PDO
+【JavaDB4】よく使うSQL(SELECT，INSERT，UPDATE，DELETE)の書き方を初心者向けに解説！
+https://m.youtube.com/watch?v=-aFIp1DToHs
+
 PDOクラスによるレコードの抽出
 https://mjeeeey.hatenablog.com/entry/2019/09/06/005932
 
