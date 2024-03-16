@@ -1,4 +1,7 @@
 # PDO
+【JavaDB5】SQL文で条件指定するwhereの使い方
+https://m.youtube.com/watch?v=2yNkIVc9-_M
+
 【JavaDB4】よく使うSQL(SELECT，INSERT，UPDATE，DELETE)の書き方を初心者向けに解説！
 https://m.youtube.com/watch?v=-aFIp1DToHs
 
